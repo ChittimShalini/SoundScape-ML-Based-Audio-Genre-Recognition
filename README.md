@@ -20,10 +20,10 @@ SoundScape is a machine learning-based audio genre recognition system that class
 - Joblib (for saving and loading trained models)
 
 ## ⚙️ Installation
--  1️. Clone the repository
--  2. Create and activate a virtual environment (optional but recommended)
-   3. Install dependencies
-   4. Run the Flask App
+1️. Clone the repository**
+2. Create and activate a virtual environment (optional but recommended)
+3. Install dependencies
+4. Run the Flask App
      
 
 

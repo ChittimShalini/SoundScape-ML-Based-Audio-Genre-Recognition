@@ -27,6 +27,26 @@ SoundScape is a machine learning-based audio genre recognition system that class
 - Install dependencies
    
 - Run the Flask App
+
+## 🚀 How It Works
+**Dataset Collection & Preprocessing**
+- Used the GTZAN dataset, containing 10 music genres.
+  
+- Extracted features using Librosa and stored them in a CSV file.
+  
+**Model Training & Ensemble Learning**
+- Trained SVM, Random Forest, and KNN on extracted features.
+  
+- Combined models using a Voting Classifier to improve accuracy.
+  
+- Saved the final model using Joblib.
+  
+**Web Interface & Prediction**
+- Built a Flask-based web app where users can upload an audio file.
+  
+- Extracted features from the uploaded file and passed them to the trained model.
+  
+- Displayed the predicted genre on the webpage.
      
 
 

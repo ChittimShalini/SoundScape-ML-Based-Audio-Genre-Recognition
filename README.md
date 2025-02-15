@@ -47,6 +47,17 @@ SoundScape is a machine learning-based audio genre recognition system that class
 - Extracted features from the uploaded file and passed them to the trained model.
   
 - Displayed the predicted genre on the webpage.
+
+## 🎯 Use Cases
+🎵 Music Recommendation Systems – Can be used for personalized song recommendations.
+
+📻 Radio & Streaming Services – Helps in auto-categorizing music libraries.
+
+📊 Data Science Projects – A great project for understanding ML-based classification.
+
+🎧 Audio Content Management – Useful for automatic tagging and playlist generation.
+
+
      
 
 

@@ -1,1 +1,1 @@
-# SoundScape-ML-Based-Audio-Genre-Recognition
+# SoundScape: ML-Based Audio Genre Recognition 🎵🎧

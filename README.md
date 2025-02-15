@@ -69,7 +69,7 @@ SoundScape is a machine learning-based audio genre recognition system that class
 - Larger Dataset – Expanding the dataset for better generalization.
 - Mobile App Integration – Developing an Android/iOS app using Flask API.
 
-🎤 Conclusion
+## 🎤 Conclusion
 SoundScape is a powerful ML-based audio genre classification system that leverages an ensemble of models to improve accuracy. By combining SVM, Random Forest, and KNN, we achieve robust predictions, making this project an excellent foundation for music-related AI applications. 
 
 

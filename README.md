@@ -5,9 +5,13 @@ SoundScape is a machine learning-based audio genre recognition system that class
 
 ## 🌟 Features
 - Multi-Model Approach – Uses multiple ML models and combines their predictions for better accuracy.
+  
 - Audio Feature Extraction – Utilizes Librosa to extract features like MFCCs, Spectral Features, and Chroma.
+  
 - Voting Classifier – Uses ensemble learning to enhance prediction reliability.
+  
 - Pre-trained Model Deployment – Saves the trained model using Joblib for fast predictions.
+  
 - Web Interface – A Flask-based user-friendly web app where users can upload songs for classification.
 
 ## 🛠️ Technologies Used

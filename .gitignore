@@ -1,0 +1,7 @@
+venv/
+*.pkl
+*.zip
+*.json
+__pycache__/
+*.pyc
+*.log

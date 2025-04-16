@@ -1,7 +1,7 @@
 # AudioGen: ML-Based Audio Genre Classifier 🎵🎧
 
 ## 📌 Overview
-SoundScape is a machine learning-based audio genre recognition system that classifies music into different genres based on extracted audio features. This project leverages multiple ML models (SVM, Random Forest, KNN) combined using an ensemble approach (Voting Classifier) to improve accuracy. Users can upload an audio file through a Flask web interface, and the system predicts its genre using pre-trained models.
+AudioGen is a machine learning-based audio genre recognition system that classifies music into different genres based on extracted audio features. This project leverages multiple ML models (SVM, Random Forest, KNN) combined using an ensemble approach (Voting Classifier) to improve accuracy. Users can upload an audio file through a Flask web interface, and the system predicts its genre using pre-trained models.
 
 ## 🌟 Features
 - Multi-Model Approach – Uses multiple ML models and combines their predictions for better accuracy.
@@ -80,7 +80,7 @@ SoundScape is a machine learning-based audio genre recognition system that class
 - Mobile App Integration – Developing an Android/iOS app using Flask API.
 
 ## 🎤 Conclusion
-SoundScape is a powerful ML-based audio genre classification system that leverages an ensemble of models to improve accuracy. By combining SVM, Random Forest, and KNN, we achieve robust predictions, making this project an excellent foundation for music-related AI applications. 
+AudioGen is a powerful ML-based audio genre classification system that leverages an ensemble of models to improve accuracy. By combining SVM, Random Forest, and KNN, we achieve robust predictions, making this project an excellent foundation for music-related AI applications. 
 
 
      
